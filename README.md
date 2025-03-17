@@ -1,2 +1,2 @@
-# Mat-ria---Programa-o-de-Computadores
+# Materia Programacao-de-Computadores
 Conteúdo e atividades da matéria Programação de Computadores
